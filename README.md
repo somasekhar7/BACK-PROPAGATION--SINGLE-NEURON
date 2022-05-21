@@ -31,6 +31,7 @@
   6. Keep repeating the process until the desired output is achieved
   
 ## Program:
+```
 /* 
 Program to implement random classification. 
 
@@ -38,6 +39,8 @@ Developed by   : DARISI VENKATA VEERA SOMASEKHAR
 
 Register Number :  212219040024
 */ 
+```
+```
 
 import numpy as np 
 
@@ -76,6 +79,7 @@ print(a)
 print(" ") 
 
 print(w) 
+```
 
 ## Output:
  ![image](https://user-images.githubusercontent.com/78737336/164079904-f141592d-9d4d-493a-843c-18457b03fdf9.png)
