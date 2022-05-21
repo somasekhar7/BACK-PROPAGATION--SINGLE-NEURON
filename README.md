@@ -2,12 +2,12 @@
 ### DATE: 08-04-2022
 # <p align="center">BACK-PROPAGATION--SINGLE-NEURON</P>
 
-# AIM:
+## Aim:
   To write a python program to perform Back Propagation with Single Neuron.
-# EQUIPMENTS REQUIRED:
+## Equipments Required:
   1.	Hardware – PCs
   2.	Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
-# RELATED THEORITICAL CONCEPT:
+## Related Theory Concept:
 
  # Training Dataset:
     Training data is an extremely large dataset that is used to teach a machine learning model.
@@ -19,14 +19,14 @@
      Some data may be used in a confirmatory way, typically to verify that a given set of input to a given function produces some expected result.
   # Backward propagation:
       Backpropagation (backward propagation) is an important mathematical tool for improving the accuracy of predictions in data mining and machine learning.                 Essentially, backpropagation is an algorithm used to calculate derivatives quickly.
-# Algorithm:
+## Algorithm:
   1.	Inputs X, arrive through the preconnected path.
   2.	Input is modeled using real weights W. The weights are usually randomly selected.
   3.	Calculate the output for every neuron from the input layer, to the hidden layers, to the output layer.
   4.	Calculate the error in the outputs.
   5.	Travel back from the output layer to the hidden layer to adjust the weights such that the error is decreased.
   6. Keep repeating the process until the desired output is achieved.
-# PROGRAM:
+## PROGRAM:
 /* 
 Program to implement random classification. 
 
@@ -73,11 +73,11 @@ print(" ")
 
 print(w) 
 
-# OUTPUT:
+## Output:
  ![image](https://user-images.githubusercontent.com/78737336/164079904-f141592d-9d4d-493a-843c-18457b03fdf9.png)
 
 
  
-# RESULT:
+## Result:
   
   Thus the Back Propagation with Single Neuron has been implemented successfully using python program.
