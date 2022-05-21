@@ -1,3 +1,6 @@
+### EX NO: 04
+### DATE: 08-04-2022
+# <p align="center"> SIGMOID ACTIVATION FUNCTION</P>
 # BACK-PROPAGATION--SINGLE-NEURON
 # AIM:
   To write a python program to perform Back Propagation with Single Neuron.
